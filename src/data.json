@@ -1,0 +1,383 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Výživové doplnky",
+        "subcategories": [
+          {
+            "id": 1,
+            "name": "Proteíny",
+            "products": [
+              {
+                "id": 1,
+                "name": "Srvátkový proteín",
+                "price": 19.99,
+                "image": "/Img/protein1.jpg",
+                "slug": "srvátkový-proteín",
+                "description": "Srvátkový proteín je ideálny pre regeneráciu svalov po tréningu. Obsahuje vysoký podiel bielkovín a esenciálnych aminokyselín, ktoré podporujú rast svalovej hmoty."
+              },
+              {
+                "id": 2,
+                "name": "Kazeínový proteín",
+                "price": 21.99,
+                "image": "/Img/protein2.jpg",
+                "slug": "kazeínový-proteín",
+                "description": "Kazeínový proteín je pomaly vstrebateľný proteín, ideálny na nočné použitie pre nepretržitú regeneráciu svalov počas spánku."
+              },
+              {
+                "id": 3,
+                "name": "Vegan proteín",
+                "price": 24.99,
+                "image": "/Img/protein3.jpg",
+                "slug": "vegan-proteín",
+                "description": "Vegan proteín je rastlinný proteínový prášok ideálny pre vegetariánov a vegánov, vyrobený z hrášku, ryže alebo iných rastlinných zdrojov."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Vitamíny",
+            "products": [
+              {
+                "id": 4,
+                "name": "Multivitamín",
+                "price": 12.99,
+                "image": "/Img/vitamin1.jpg",
+                "slug": "multivitamín",
+                "description": "Multivitamínový doplnok poskytuje esenciálne vitamíny a minerály, ktoré podporujú celkové zdravie a imunitu."
+              },
+              {
+                "id": 5,
+                "name": "Vitamín D3",
+                "price": 9.99,
+                "image": "/Img/vitamin2.jpg",
+                "slug": "vitamín-d3",
+                "description": "Vitamín D3 je nevyhnutný pre zdravé kosti a zuby, ako aj pre podporu imunity, najmä v zimných mesiacoch."
+              },
+              {
+                "id": 6,
+                "name": "Vitamín C",
+                "price": 8.99,
+                "image": "/Img/vitamin3.jpg",
+                "slug": "vitamín-c",
+                "description": "Vitamín C je silný antioxidant, ktorý podporuje imunitný systém, pomáha pri hojení rán a zlepšuje zdravie pokožky."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Minerály",
+            "products": [
+              {
+                "id": 7,
+                "name": "Horčík",
+                "price": 10.99,
+                "image": "/Img/mineral1.jpg",
+                "slug": "horčík",
+                "description": "Horčík prispieva k zníženiu únavy a vyčerpania, podpore svalovej funkcie a zdravia nervového systému."
+              },
+              {
+                "id": 8,
+                "name": "Zinok",
+                "price": 11.99,
+                "image": "/Img/mineral2.jpg",
+                "slug": "zinok",
+                "description": "Zinok podporuje zdravú pokožku, nechty a vlasy, ako aj imunitný systém a hojenie rán."
+              },
+              {
+                "id": 9,
+                "name": "Vápnik",
+                "price": 13.99,
+                "image": "/Img/mineral3.jpg",
+                "slug": "vápnik",
+                "description": "Vápnik je kľúčový pre silné kosti a zuby a podporuje správnu svalovú kontrakciu a nervovú funkciu."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Kreatíny",
+            "products": [
+              {
+                "id": 10,
+                "name": "Kreatín monohydrát",
+                "price": 14.99,
+                "image": "/Img/creatine1.jpg",
+                "slug": "kreatín-monohydrát",
+                "description": "Kreatín monohydrát zlepšuje výkon pri intenzívnom cvičení a podporuje svalovú regeneráciu a rast."
+              },
+              {
+                "id": 11,
+                "name": "Mikronizovaný kreatín",
+                "price": 16.99,
+                "image": "/Img/creatine2.jpg",
+                "slug": "mikronizovaný-kreatín",
+                "description": "Mikronizovaný kreatín sa ľahšie mieša s tekutinami a ponúka rovnaké výhody ako tradičný kreatín."
+              },
+              {
+                "id": 12,
+                "name": "Kreatín HCL",
+                "price": 18.99,
+                "image": "/Img/creatine3.jpg",
+                "slug": "kreatín-hcl",
+                "description": "Kreatín HCL poskytuje lepšiu rozpustnosť a absorpciu, čo zvyšuje jeho účinnosť pri zlepšovaní športového výkonu."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Aminokyseliny",
+            "products": [
+              {
+                "id": 13,
+                "name": "BCAA",
+                "price": 17.99,
+                "image": "/Img/bcca.jpg",
+                "slug": "bcaa",
+                "description": "BCAA obsahujú esenciálne aminokyseliny, ktoré podporujú regeneráciu svalov a zlepšujú výkon pri cvičení."
+              },
+              {
+                "id": 14,
+                "name": "Glutamín",
+                "price": 15.99,
+                "image": "/Img/glutamine.jpg",
+                "slug": "glutamín",
+                "description": "Glutamín pomáha znižovať svalovú bolesť po tréningu a podporuje zdravie čriev a imunitu."
+              },
+              {
+                "id": 15,
+                "name": "Arginín",
+                "price": 14.49,
+                "image": "/Img/arginine.jpg",
+                "slug": "arginín",
+                "description": "Arginín je prekurzor oxidu dusnatého, ktorý zlepšuje prietok krvi a podporuje svalovú pumpu počas tréningu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Fitness oblečenie",
+        "subcategories": [
+          {
+            "id": 1,
+            "name": "Mikiny",
+            "products": [
+              {
+                "id": 16,
+                "name": "Športová mikina s kapucňou",
+                "price": 39.99,
+                "image": "/Img/hoodie1.jpg",
+                "slug": "mikina-s-kapucnou",
+                "description": "Mikina vyrobená z príjemného a elastického materiálu, ideálna pre každodenné nosenie alebo tréning. Obsahuje kapucňu pre lepšiu ochranu pred chladom."
+              },
+              {
+                "id": 17,
+                "name": "Fitness mikina",
+                "price": 35.99,
+                "image": "/Img/hoodie2.jpg",
+                "slug": "fitness-mikina",
+                "description": "Fitness mikina je ľahká a priedušná, ideálna na nosenie pred alebo po tréningu. Je vyrobená z materiálov, ktoré zaisťujú komfort a pohyblivosť."
+              },
+              {
+                "id": 18,
+                "name": "Mikina s logom",
+                "price": 29.99,
+                "image": "/Img/hoodie3.jpg",
+                "slug": "mikina-s-logom",
+                "description": "Tato mikina je ideálna pre fanúšikov športových značiek. Príjemný materiál a štýlový dizajn robia z nej must-have kúsok vo vašom šatníku."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Tričká",
+            "products": [
+              {
+                "id": 19,
+                "name": "Funkčné tričko",
+                "price": 24.99,
+                "image": "/Img/tshirt1.jpg",
+                "slug": "funkčné-tričko",
+                "description": "Funkčné tričko je vyrobené z materiálu, ktorý odvádza vlhkosť, aby ste sa počas cvičenia cítili komfortne. Má moderný dizajn a flexibilitu pre každý pohyb."
+              },
+              {
+                "id": 20,
+                "name": "Športové tričko",
+                "price": 22.99,
+                "image": "/Img/tshirt2.jpg",
+                "slug": "športové-tričko",
+                "description": "Športové tričko je ideálne na tréning, vyrobené z priedušného materiálu, ktorý reguluje teplotu tela a zabezpečuje maximálny komfort."
+              },
+              {
+                "id": 21,
+                "name": "Tričko s krátkym rukávom",
+                "price": 19.99,
+                "image": "/Img/tshirt3.jpg",
+                "slug": "tričko-s-krátkym-rukávom",
+                "description": "Klasické tričko s krátkym rukávom, vyrobené z kvalitného materiálu, ktorý je ideálny na každodenné cvičenie alebo relax."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Nohavice",
+            "products": [
+              {
+                "id": 22,
+                "name": "Športové nohavice",
+                "price": 39.99,
+                "image": "/Img/pants1.jpg",
+                "slug": "športové-nohavice",
+                "description": "Športové nohavice navrhnuté pre maximálnu pohyblivosť, ideálne na cvičenie aj voľný čas. Materiál je elastický a priedušný."
+              },
+              {
+                "id": 23,
+                "name": "Fitness legíny",
+                "price": 29.99,
+                "image": "/Img/pants2.jpg",
+                "slug": "fitness-legíny",
+                "description": "Fitness legíny sú vyrobené z materiálu, ktorý zaručuje vysokú flexibilitu, ideálne pre intenzívne cvičenia a jogu."
+              },
+              {
+                "id": 24,
+                "name": "Športové tepláky",
+                "price": 32.99,
+                "image": "/Img/pants3.jpg",
+                "slug": "športové-tepláky",
+                "description": "Tepláky navrhnuté pre maximálny komfort a voľnosť pohybu počas tréningu alebo relaxu. Sú vyrobené z kvalitného materiálu."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Športové podprsenky",
+            "products": [
+              {
+                "id": 25,
+                "name": "Športová podprsenka s podporou",
+                "price": 24.99,
+                "image": "/Img/sports-bra1.jpg",
+                "slug": "športová-podprsenka-s-podporou",
+                "description": "Športová podprsenka s vysokou oporou, ideálna na intenzívne tréningy a poskytuje maximálnu podporu počas pohybu."
+              },
+              {
+                "id": 26,
+                "name": "Ľahká športová podprsenka",
+                "price": 19.99,
+                "image": "/Img/sports-bra2.jpg",
+                "slug": "ľahká-športová-podprsenka",
+                "description": "Podprsenka s ľahkou podporou, ideálna na menej intenzívne aktivity, ako je joga alebo pilates."
+              },
+              {
+                "id": 27,
+                "name": "Športová podprsenka s vypchávkami",
+                "price": 22.99,
+                "image": "/Img/sports-bra3.jpg",
+                "slug": "športová-podprsenka-s-vypchávkami",
+                "description": "Športová podprsenka s vypchávkami pre dodatočný komfort a oporu, vhodná na rôzne športové aktivity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fitness príslušenstvo",
+        "subcategories": [
+          {
+            "id": 1,
+            "name": "Činky",
+            "products": [
+              {
+                "id": 28,
+                "name": "Jednoručné činky",
+                "price": 19.99,
+                "image": "/Img/dumbbell1.jpg",
+                "slug": "jednoručné-činky",
+                "description": "Jednoručné činky sú ideálne na zlepšenie sily a vytrvalosti. Kvalitné materiály zaisťujú dlhú životnosť."
+              },
+              {
+                "id": 29,
+                "name": "Činky set",
+                "price": 49.99,
+                "image": "/Img/dumbbell-set.jpg",
+                "slug": "činky-set",
+                "description": "Set činiek pre začínajúcich aj pokročilých, obsahuje rôzne hmotnosti pre všetky úrovne tréningu."
+              },
+              {
+                "id": 30,
+                "name": "Kettlebell",
+                "price": 29.99,
+                "image": "/Img/kettlebell.jpg",
+                "slug": "kettlebell",
+                "description": "Kettlebell je ideálny nástroj pre silový tréning a zlepšenie kondície. Vhodný na cvičenie s vlastnou váhou."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Šejkre",
+            "products": [
+              {
+                "id": 31,
+                "name": "Šejker na proteín",
+                "price": 9.99,
+                "image": "/Img/shaker1.jpg",
+                "slug": "šejker-na-proteín",
+                "description": "Praktický šejker na rýchle miešanie proteínových nápojov. Má širokú kapacitu a ľahko sa čistí."
+              },
+              {
+                "id": 32,
+                "name": "Športový šejker",
+                "price": 7.99,
+                "image": "/Img/shaker2.jpg",
+                "slug": "športový-šejker",
+                "description": "Športový šejker s uzáverom proti pretečeniu, ideálny na miešanie nápojov pred a po tréningu."
+              },
+              {
+                "id": 33,
+                "name": "Proteinový šejker",
+                "price": 10.49,
+                "image": "/Img/shaker3.jpg",
+                "slug": "proteinový-šejker",
+                "description": "Šejker určený na proteínové prášky, vybavený kvalitným sitkom na dokonalé premiešanie."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Ďalšie príslušenstvo",
+            "products": [
+              {
+                "id": 34,
+                "name": "Fitness pás",
+                "price": 15.99,
+                "image": "/Img/fitness-band.jpg",
+                "slug": "fitness-pás",
+                "description": "Fitness pás je skvelý na rehabilitačné cvičenia, pomáha posilniť svaly a zlepšiť flexibilitu."
+              },
+              {
+                "id": 35,
+                "name": "Podložka na cvičenie",
+                "price": 12.99,
+                "image": "/Img/exercise-mat.jpg",
+                "slug": "podložka-na-cvičenie",
+                "description": "Podložka na cvičenie je ideálna pre jogu, pilates alebo akékoľvek iné cvičenia na tvrdých povrchoch."
+              },
+              {
+                "id": 36,
+                "name": "Fitness rukavice",
+                "price": 18.99,
+                "image": "/Img/fitness-gloves.jpg",
+                "slug": "fitness-rukavice",
+                "description": "Fitness rukavice poskytujú lepšiu úchopovú silu a chránia ruky pri cvičení s činkami."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
